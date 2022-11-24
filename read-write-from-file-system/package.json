@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "file-system-io-operations",
+  "version": "1.0.0",
+  "description": "Example of how to read and write from the fyle system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["nodejs", "javascript", "native-modules"],
+  "author": "Rômulo de F Guimarães",
+  "license": "MIT"
+}
