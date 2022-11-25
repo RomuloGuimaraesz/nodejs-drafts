@@ -2,7 +2,7 @@
   "type": "module",
   "name": "file-system-io-operations",
   "version": "1.0.0",
-  "description": "Example of how to read and write from the fyle system",
+  "description": "Example of how to read and write from the file system",
   "main": "index.js",
   "scripts": {
   },
